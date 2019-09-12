@@ -32,4 +32,4 @@ show_results.py: displays the results of the analysis in a variety of ways
 
 ## Presentation
 
-[Click to view presentation here](./blob/master/README.md)
+[Click to view presentation here](Project_Presentation.pdf)
